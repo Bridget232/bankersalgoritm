@@ -1,1 +1,2 @@
 # bankersalgoritm
+![Uploading image.png…]()
